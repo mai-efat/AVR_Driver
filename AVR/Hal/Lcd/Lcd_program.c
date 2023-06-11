@@ -2,7 +2,7 @@
  * Lcd_program.c
  *
  *  Created on: Aug 10, 2022
- *      Author: Shady_Magdy
+ *      Author: Mai Efat
  */
 
 #include "Lcd_interface.h"
