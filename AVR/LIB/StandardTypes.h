@@ -2,7 +2,7 @@
  * StandardTypes.h
  *
  *  Created on: ???/???/????
- *      Author: Shady_Magdy
+ *      Author: Mai Efat
  */
 
 #ifndef STANDARDTYPES_H_
