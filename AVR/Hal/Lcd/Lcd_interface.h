@@ -2,7 +2,7 @@
  * Lcd_interface.h
  *
  *  Created on: Aug 10, 2022
- *      Author: Shady_Magdy
+ *      Author: Mai Efat
  */
 
 #ifndef HAL_LCD_LCD_INTERFACE_H_
