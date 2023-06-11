@@ -2,7 +2,7 @@
  * Buzzer_configuration.h
  *
  *  Created on: ???/???/????
- *      Author: Shady Magdy
+ *      Author: Mai Efat
  */
 
 #ifndef HAL_BUZZER_BUZZER_CONFIGURATION_H_
