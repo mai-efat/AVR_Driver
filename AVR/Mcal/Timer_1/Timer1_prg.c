@@ -2,7 +2,7 @@
  * Timer1_prg.c
  *
  *  Created on: Aug 23, 2022
- *      Author: aya_enan
+ *      Author: Mai Efat
  */
 #include "StandardTypes.h"
 #include "BitMath.h"
