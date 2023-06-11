@@ -2,7 +2,7 @@
  * GIE_program.c
  *
  *  Created on: ???/???/????
- *      Author: Shady_Magdy
+ *      Author: Mai Efat
  */
 
 #include "GIE_private.h"
