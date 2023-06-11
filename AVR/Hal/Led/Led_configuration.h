@@ -2,7 +2,7 @@
  * Led_configuration.h
  *
  *  Created on: ???/???/????
- *      Author: dell
+ *      Author: Mai Efat
  */
 
 #ifndef LED_LED_CONFIGURATION_H_
