@@ -2,7 +2,7 @@
  * Buzzer_interface.h
  *
  *  Created on: ???/???/????
- *      Author: Shady Magdy
+ *      Author: Mai Efat
  */
 
 #ifndef HAL_BUZZER_BUZZER_INTERFACE_H_
