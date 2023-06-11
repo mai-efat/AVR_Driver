@@ -2,7 +2,7 @@
  * KeyPad_interface.h
  *
  *  Created on: ???/???/????
- *      Author: Shady_Magdy
+ *      Author: Mai Efat
  */
 
 #ifndef HAL_KEYPAD_KEYPAD_INTERFACE_H_
