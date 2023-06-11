@@ -2,7 +2,7 @@
  * SPI_private.h
  *
  *  Created on: Aug 28, 2022
- *      Author: Shady
+ *      Author: Mai
  */
 
 #ifndef SPI_SPI_PRIVATE_H_
