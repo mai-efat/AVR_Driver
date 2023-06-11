@@ -2,7 +2,7 @@
  * WDT_program.c
  *
  *  Created on: Aug 31, 2022
- *      Author: Shady
+ *      Author: Mai
  */
 
 #include "WDT_private.h"
