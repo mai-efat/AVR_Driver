@@ -2,7 +2,7 @@
  * EEPROM_priv.h
  *
  *  Created on: Aug 30, 2022
- *      Author: Shady_Magdy
+ *      Author: Mai Efat
  */
 
 #ifndef EEPROM_EEPROM_PRIV_H_
