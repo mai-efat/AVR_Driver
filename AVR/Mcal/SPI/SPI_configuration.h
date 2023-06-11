@@ -2,7 +2,7 @@
  * SPI_configuration.h
  *
  *  Created on: Aug 28, 2022
- *      Author: Shady
+ *      Author:   Mai
  */
 
 #ifndef SPI_SPI_CONFIGURATION_H_
