@@ -2,7 +2,7 @@
  * ADC_private.h
  *
  *  Created on: ???/???/????
- *      Author: Shady_Magdy
+ *      Author: Mai Efat
  */
 
 #ifndef MCAL_ADC_ADC_PRIVATE_H_
