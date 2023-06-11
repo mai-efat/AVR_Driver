@@ -2,7 +2,7 @@
  * Dio_configuration.h
  *
  *  Created on: ???/???/????
- *      Author: Shady_Magdy
+ *      Author: Mai Efat
  */
 
 #ifndef DIO_DIO_CONFIGURATION_H_
