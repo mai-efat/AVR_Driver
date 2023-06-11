@@ -2,7 +2,7 @@
  * Dio_interface.h
  *
  *  Created on: ???/???/????
- *      Author: Shady_Magdy
+ *      Author: Mai Efat
  */
 
 #ifndef DIO_DIO_INTERFACE_H_
