@@ -2,7 +2,7 @@
  * SPI_program.c
  *
  *  Created on: Aug 28, 2022
- *      Author: Shady
+ *      Author: Mai
  */
 #include "SPI_interface.h"
 #include "SPI_private.h"
