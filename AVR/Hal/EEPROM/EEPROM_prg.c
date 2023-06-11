@@ -2,7 +2,7 @@
  * EEPROM_prg.c
  *
  *  Created on: Aug 30, 2022
- *      Author: Shady_Magdy
+ *      Author: Mai Efat
  */
 #include "StandardTypes.h"
 #include "TWI_int.h"
