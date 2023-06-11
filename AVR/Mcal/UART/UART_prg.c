@@ -2,7 +2,7 @@
  * UART_prg.c
  *
  *  Created on: Aug 24, 2022
- *      Author: Shady Magdy
+ *      Author: Mai Efat
  */
 
 #include "StandardTypes.h"
