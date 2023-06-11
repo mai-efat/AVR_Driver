@@ -2,7 +2,7 @@
  * Ext_Int_configuration.h
  *
  *  Created on: ???/???/????
- *      Author: Shady_Magdy
+ *      Author: Mai Efat
  */
 
 #ifndef MCAL_EXT_INT_EXT_INT_CONFIGURATION_H_
