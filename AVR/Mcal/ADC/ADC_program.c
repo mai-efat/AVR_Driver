@@ -2,7 +2,7 @@
  * ADC_program.c
  *
  *  Created on: ???/???/????
- *      Author: Shady_Magdy
+ *      Author: Mai Efat
  */
 
 #include "ADC_configuration.h"
