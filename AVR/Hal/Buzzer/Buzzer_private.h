@@ -2,7 +2,7 @@
  * Buzzer_private.h
  *
  *  Created on: ???/???/????
- *      Author: Shady Magdy
+ *      Author: Mai Efat
  */
 
 #ifndef HAL_BUZZER_BUZZER_PRIVATE_H_
