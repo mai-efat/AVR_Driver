@@ -2,7 +2,7 @@
  * BitMath.h
  *
  *  Created on: ???/???/????
- *      Author: Shady_Magdy
+ *      Author: Mai Efat
  */
 
 #ifndef BITMATH_H_
