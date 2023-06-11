@@ -2,7 +2,7 @@
  * WDT_interface.h
  *
  *  Created on: Aug 31, 2022
- *      Author: Shady
+ *      Author: Mai
  */
 
 #ifndef WDT_WDT_INTERFACE_H_
