@@ -2,7 +2,7 @@
  * Timer1_int.h
  *
  *  Created on: Aug 23, 2022
- *      Author: aya_enan
+ *      Author: Mai Efat
  */
 
 #ifndef TIMER_1_TIMER1_INT_H_
