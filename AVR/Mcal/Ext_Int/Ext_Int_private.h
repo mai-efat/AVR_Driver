@@ -2,7 +2,7 @@
  * Ext_Int_private.h
  *
  *  Created on: ???/???/????
- *      Author: Shady_Magdy
+ *      Author: Mai Efat 
  */
 
 #ifndef MCAL_EXT_INT_EXT_INT_PRIVATE_H_
