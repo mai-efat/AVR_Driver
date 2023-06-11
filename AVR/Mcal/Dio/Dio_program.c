@@ -2,7 +2,7 @@
  * Dio_program.c
  *
  *  Created on: ???/???/????
- *      Author: Shady_Magdy
+ *      Author: Mai Efat
  */
 #include "Dio_private.h"
 #include "Dio_interface.h"
