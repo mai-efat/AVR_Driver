@@ -2,7 +2,7 @@
  * UART_config.h
  *
  *  Created on: Aug 24, 2022
- *      Author: Shady Magdy
+ *      Author: Mai Efat
  */
 
 #ifndef UART_UART_CONFIG_H_
