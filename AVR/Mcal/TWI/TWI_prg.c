@@ -2,7 +2,7 @@
  * TWI_prg.c
  *
  *  Created on: Aug 29, 2022
- *      Author: Shady Magdy 
+ *      Author: Mai Efat
  */
 #include "StandardTypes.h"
 #include "BitMath.h"
