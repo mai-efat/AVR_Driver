@@ -2,7 +2,7 @@
  * WDT_private.h
  *
  *  Created on: Aug 31, 2022
- *      Author: Shady
+ *      Author:Mai Efat
  */
 
 #ifndef WDT_WDT_PRIVATE_H_
