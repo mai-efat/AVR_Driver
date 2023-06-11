@@ -2,7 +2,7 @@
  * TWI_priv.h
  *
  *  Created on: Aug 29, 2022
- *      Author: aya_enan
+ *      Author: Mai Efat
  */
 
 #ifndef TWI_TWI_PRIV_H_
