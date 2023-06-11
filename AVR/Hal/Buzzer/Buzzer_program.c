@@ -2,7 +2,7 @@
  * Buzzer_program.c
  *
  *  Created on: 
- *      Author: Shady Magdy
+ *      Author: Mai Efat
  */
 
 #include "Buzzer_interface.h"
